@@ -1,0 +1,15 @@
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\bin\Debug\net6.0\Tehtävä 6 Sää.exe
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\bin\Debug\net6.0\Tehtävä 6 Sää.deps.json
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\bin\Debug\net6.0\Tehtävä 6 Sää.runtimeconfig.json
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\bin\Debug\net6.0\Tehtävä 6 Sää.dll
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\bin\Debug\net6.0\ref\Tehtävä 6 Sää.dll
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\bin\Debug\net6.0\Tehtävä 6 Sää.pdb
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\obj\Debug\net6.0\Tehtävä 6 Sää.csproj.AssemblyReference.cache
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\obj\Debug\net6.0\Tehtävä 6 Sää.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\obj\Debug\net6.0\Tehtävä 6 Sää.AssemblyInfoInputs.cache
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\obj\Debug\net6.0\Tehtävä 6 Sää.AssemblyInfo.cs
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\obj\Debug\net6.0\Tehtävä 6 Sää.csproj.CoreCompileInputs.cache
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\obj\Debug\net6.0\Tehtävä 6 Sää.dll
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\obj\Debug\net6.0\ref\Tehtävä 6 Sää.dll
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\obj\Debug\net6.0\Tehtävä 6 Sää.pdb
+C:\Users\sinir\source\repos\Tehtävä 6 Sää\Tehtävä 6 Sää\obj\Debug\net6.0\Tehtävä 6 Sää.genruntimeconfig.cache

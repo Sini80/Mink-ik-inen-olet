@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sinir\\source\\repos\\Tehtävä 6 Sää\\Tehtävä 6 Sää\\Tehtävä 6 Sää.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sinir\\source\\repos\\Tehtävä 6 Sää\\Tehtävä 6 Sää\\Tehtävä 6 Sää.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sinir\\source\\repos\\Tehtävä 6 Sää\\Tehtävä 6 Sää\\Tehtävä 6 Sää.csproj",
+        "projectName": "Tehtävä 6 Sää",
+        "projectPath": "C:\\Users\\sinir\\source\\repos\\Tehtävä 6 Sää\\Tehtävä 6 Sää\\Tehtävä 6 Sää.csproj",
+        "packagesPath": "C:\\Users\\sinir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinir\\source\\repos\\Tehtävä 6 Sää\\Tehtävä 6 Sää\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sinir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
